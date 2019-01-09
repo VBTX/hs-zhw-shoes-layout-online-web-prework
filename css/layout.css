@@ -22,6 +22,10 @@
   clear: both;
 }
 
+.shadow{
+  height: auto;
+}
+
 
 .col-1{
   float: left;
