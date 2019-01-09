@@ -21,7 +21,9 @@
 .clear {
   clear: both;
 }
-
+.leftie{
+  float: left;
+}
 .archive{
   float: right;
 }
