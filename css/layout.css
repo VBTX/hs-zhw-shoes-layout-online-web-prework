@@ -22,6 +22,10 @@
   clear: both;
 }
 
+.archive{
+  floart: right;
+}
+
 .col-1{
   float: left;
 }
