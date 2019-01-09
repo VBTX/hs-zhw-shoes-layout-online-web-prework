@@ -21,7 +21,10 @@
 .clear {
   clear: both;
 }
+col-1 col-2 {
+  vertical-align: bottom
 
+}
 .col-1{
   float: left;
   width: 30%;
