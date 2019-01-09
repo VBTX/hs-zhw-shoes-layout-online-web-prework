@@ -21,12 +21,6 @@
 .clear {
   clear: both;
 }
-.leftie{
-  float: left;
-}
-.archive{
-  float: right;
-}
 
 .wrapper{
   margin: 0 auto;
