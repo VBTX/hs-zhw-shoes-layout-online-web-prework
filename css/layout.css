@@ -21,9 +21,7 @@
 .clear {
   clear: both;
 }
-img, video, audio {
-  max-width:100%;
-}
+
 
 .wrapper{
   margin: 0 auto;
