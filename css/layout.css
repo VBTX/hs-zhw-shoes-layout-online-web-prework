@@ -34,12 +34,12 @@
 
 .col-1{
   float: left;
-  width: 75%;
+  width: 25%;
 }
 
 .col-2{
   float: left;
-  width: 25%;
+  width: 75%;
 }
 .first {
 	margin-left:  0%
